@@ -1,9 +1,9 @@
 # Employee-DS-Application
 This Repo contains my 1st Application created using Data Structure and C language
 
-Author                          – Abhishek Shailesh Mane, 
-Lines of code (LOC)   – 400 lines,
-Language of code     – C language. 
+Author                – Abhishek Shailesh Mane, 
+Lines of code (LOC)   – 390 lines,
+Language of code      – C language. 
 
 Real time Employee Data Storage and manipulation system for Companies using Linked list data structure in C.
 Key Features. 
