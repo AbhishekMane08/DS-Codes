@@ -1,14 +1,15 @@
-//////////////////////////////////////////////////////////////////////////////
-//									    //
-//	Author 			: Abhishek Shailesh Mane		    //
-//	Date			: February 24,2017.		            //
-//	Project Name	        : Employee Data Management Application      //
-//	Language		: C language.				    //
-//	Lines Of Codes	        : 390				            //
-//	Menu driven		: Yes					    //
-//								            //
-//////////////////////////////////////////////////////////////////////////////
-
+/*
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+||									    ||
+||	Author 			: Abhishek Shailesh Mane		    ||
+||	Date			: February 24,2017.		            ||
+||	Project Name	        : Employee Data Management Application      ||
+||	Language		: C language.				    ||
+||	Lines Of Codes	        : 390				            ||
+||	Menu driven		: Yes					    ||
+||								            ||
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+*/
 
 #include<stdio.h>
 #include<stdlib.h>
